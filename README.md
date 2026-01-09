@@ -41,7 +41,7 @@ at position `x`, compute the distance `R` to the boundary, then jump uniformly t
   * WoS path generator
 * `exemple.py`
   * small experiments (capacitor style boundary conditions, polygon soup color hit, 3D reactor BC)
-* `Rendu_projet.ipynb`
+* `Project_notebook.ipynb`
   * end to end experiments and visualizations
 * `Project Report.pdf`, `Presentation.pdf`
   * theory, experiments, discussion, limitations
